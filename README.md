@@ -1,7 +1,7 @@
-<h1>Hi, I'm 👋🏻 <span style="color:#14e0a3;">Sunday</span></h1>
+<h1>Hi, I'm 👋🏻 <span style="color:#14e0a3;">Sunday 🌞</span></h1>
 <h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
 
-<h2>About Me</h2>
+<h2>📘 About Me</h2>
 
 - How to reach me azterisk13@gmail.com
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<h2>Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 <br>
 
 > Programing Languages:
