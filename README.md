@@ -1,7 +1,7 @@
 <h1>Hi, I'm 👋🏻 Sunday 🌞</h1>
 <h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
 
-<h2>📘 About Me</h2>
+<h2>📗 About Me</h2>
 
 - How to reach me azterisk13@gmail.com
 
