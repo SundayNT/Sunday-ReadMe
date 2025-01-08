@@ -7,7 +7,7 @@
 
 
 > Languages and Tools:
-
+<p>
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS" />
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
@@ -20,5 +20,6 @@
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
 <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=ffffff" alt="Trello">
 <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel">
+</p>
 
 
