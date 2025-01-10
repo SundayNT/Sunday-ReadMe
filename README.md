@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png](https://www.canva.com/design/DAGbyg_EnoM/d8jyxBPV5wYvFWCBxIRF8A/edit?utm_content=DAGbyg_EnoM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="my banner">
+</p>
+
 <h1>Hi, I'm 👋🏻 Sunday 🌞</h1>
 <h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
 
