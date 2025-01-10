@@ -1,4 +1,3 @@
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 <h1>Hi, I'm 👋🏻 Sunday 🌞</h1>
 <h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
 
