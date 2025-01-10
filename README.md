@@ -1,3 +1,7 @@
+<p>
+    <img width="100%" src="https://res.cloudinary.com/dmqiual3u/image/upload/v1736525222/Black_Yellow_Graffiti_General_Twitch_Banner_znddnj.png" alt="My Banner" />
+</p>
+
 <h1>Hi, I'm 👋🏻 Sunday 🌞</h1>
 <h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
 
