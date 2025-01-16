@@ -3,9 +3,15 @@
 </p>
 
 <h1>Hi, I'm 👋🏻 Sunday 🌞</h1>
-<h3>Junior Software Developer graduated from Generation Thailand Cohort 8</h3>
+<h3>I am a junior software developer with a strong passion for learning and adapting to new challenges. After transitioning from another field, I have refined my skills in software development and am eager to contribute to a company that values diverse backgrounds and growth potential. I look forward to collaborating and making a meaningful impact.</h3>
 
 <h2>📗 About Me</h2>
+
+- I'm currently learning TypeScript
+
+- I love learning new things.
+
+- Junior Software Developer graduated from Generation Thailand Cohort 8
 
 - How to reach me azterisk13@gmail.com
 
