@@ -13,9 +13,9 @@
 
 - Junior Software Developer graduated from Generation Thailand Cohort 8
 
-- How to reach me azterisk13@gmail.com
+- How to reach me azterisk13@gmail.com 📫
 
-- [My Portfolio](https://sdnt-portfolio.vercel.app/)
+- [My Portfolio 📝](https://sdnt-portfolio.vercel.app/)
 
 <br>
 
