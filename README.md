@@ -90,7 +90,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord">
 </p>
 
-> Stats Card
+<br>
+
+<h2>📊 Stats Card</h2>
 
 ![Sunday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SundayNT&show_icons=true&hide=stars,issues&theme=tokyonight)
 
