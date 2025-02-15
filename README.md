@@ -7,7 +7,7 @@
 
 <h2>📗 About Me</h2>
 
-- I'm currently learning TypeScript
+- I am currently looking for a Junior Software Developer position. Although I am transitioning from a different field, I am highly motivated and passionate about pursuing a career in this industry. I am seeking a company that offers opportunities for career changers to grow and contribute. I am committed to doing my best and continuously learning new skills to improve myself. I am excited about the chance to collaborate with a team and contribute to meaningful projects.
 
 - I love learning new things.
 
